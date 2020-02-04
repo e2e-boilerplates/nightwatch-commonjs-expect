@@ -1,5 +1,5 @@
 {
-  "name": "nightwatch-commonjs-assert",
+  "name": "nightwatch-commonjs-expect",
   "version": "1.0.0",
   "description": "nightwatch end-to-end test automation boilerplate project. Using commonjs and assert.",
   "scripts": {
@@ -11,7 +11,8 @@
     "nightwatch",
     "commonjs",
     "boilerplate",
-    "example"
+    "example",
+    "expect"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
