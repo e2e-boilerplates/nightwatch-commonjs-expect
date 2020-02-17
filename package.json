@@ -1,18 +1,19 @@
 {
   "name": "nightwatch-commonjs-expect",
   "version": "1.0.0",
-  "description": "nightwatch end-to-end test automation boilerplate project. Using commonjs and assert.",
+  "description": "Nightwatch end-to-end test automation boilerplate, using CommonJS and Expect.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx nightwatch",
-    "test-ci": "npx nightwatch -c nightwatch-ci.json"
+    "test": "npx nightwatch"
   },
   "keywords": [
     "nightwatch",
     "commonjs",
     "boilerplate",
     "example",
-    "expect"
+    "expect",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
