@@ -5,7 +5,7 @@
 Nightwatch end-to-end test automation boilerplate, using Commonjs and Expect.
     
 ## Getting Started
-    	git clone git@github.com:e2e-boilerplate/nightwatch-commonjs-expect.git
-    	cd nightwatch-commonjs-expect
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/nightwatch-commonjs-expect.git
+    	2. cd nightwatch-commonjs-expect
+    	3. npm install
+    	4. npm run test
