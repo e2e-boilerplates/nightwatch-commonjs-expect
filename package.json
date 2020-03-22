@@ -1,8 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/nightwatch-commonjs-expect/issues"
   },
+  "dependencies": {},
   "description": "Nightwatch end-to-end test automation boilerplate. using Commonjs and Expect.",
   "devDependencies": {
     "chromedriver": "80.0.1",
@@ -23,13 +24,8 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "nightwatch"
   ],
   "license": "MIT",
@@ -47,6 +43,5 @@
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx nightwatch"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
