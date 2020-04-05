@@ -1,0 +1,9 @@
+| referrer                                                                                    | count | uniques |
+| :------------------------------------------------------------------------------------------ | :---- | :------ |
+| /e2e-boilerplate/nightwatch-commonjs-expect                                                 | 1     | 1       |
+| /e2e-boilerplate/nightwatch-commonjs-expect/actions                                         | 1     | 1       |
+| /e2e-boilerplate/nightwatch-commonjs-expect/actions/runs/64985223                           | 1     | 1       |
+| /e2e-boilerplate/nightwatch-commonjs-expect/actions/runs/65373353                           | 1     | 1       |
+| /e2e-boilerplate/nightwatch-commonjs-expect/commit/ed2ebfdbec3e2eaa8a62d64c3a1a0dab2cd5965f | 1     | 1       |
+| /e2e-boilerplate/nightwatch-commonjs-expect/runs/541963175                                  | 1     | 1       |
+| /e2e-boilerplate/nightwatch-commonjs-expect/runs/541977164                                  | 1     | 1       |
