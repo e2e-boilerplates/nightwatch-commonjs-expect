@@ -2,7 +2,7 @@
     
 # Nightwatch Boilerplate
     
-Nightwatch end-to-end test automation boilerplate, Using Commonjs and Expect.
+Nightwatch end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html) and Expect.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/nightwatch-commonjs-expect.git
