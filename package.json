@@ -26,14 +26,15 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
+    "expect",
+    "nightwatch",
     "e2e",
     "e2e tests",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "nightwatch"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
