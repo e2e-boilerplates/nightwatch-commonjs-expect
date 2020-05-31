@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/nightwatch-commonjs-expect/issues"
   },
   "dependencies": {
-    "chromedriver": "81.0.0",
+    "chromedriver": "83.0.0",
     "nightwatch": "1.3.5"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. Using Commonjs and Expect.",
